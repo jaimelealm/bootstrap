@@ -1,0 +1,49 @@
+#primerafila{
+    background-color: lightgray;
+}
+#encabezado1{
+    background-color: lightblue;
+    height: 70px;
+    border: solid 10px white;
+}
+#encabezado2{
+    background-color: lightblue;
+    border: solid 10px white;
+    height: 70px;
+}
+#banner{
+    background-color: blue;
+    border: solid 10px white;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cuerpo1{
+    background-color: red;
+    border: solid 10px white;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cuerpo2{
+    background-color: green;
+    border: solid 10px white;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    background-color: darkblue;
+    border: solid 10px white;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+    font-size: 60px;
+}
